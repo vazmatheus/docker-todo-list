@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --runInBand --detectOpenHandles --forceExit --verbose"
+
   },
   "repository": {
     "type": "git",
