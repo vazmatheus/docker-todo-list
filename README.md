@@ -1,5 +1,6 @@
 # Docker Todo List!
 
+Application that allows you to organize yourself in a simple way, adding, marking and/or removing your tasks.
 ## Skills
 
   * Using dockers commands in CLI - Command Line Interface;
